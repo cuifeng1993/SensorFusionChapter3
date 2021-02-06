@@ -1,6 +1,6 @@
-# Sensor Fusion: Lidar Odometry -- 多传感器融合定位与建图: 基于线面特征的激光里程计
+# 深蓝学院《多传感器融合定位》第二期作业
 
-深蓝学院, 多传感器融合定位与建图, 第3章Lidar Odometry using LOAM代码框架.
+深蓝学院, 多传感器融合定位与建图, 基于线面特征的激光里程计，第3章Lidar Odometry using LOAM代码框架.
 
 ---
 
@@ -13,8 +13,7 @@
 ## Getting Started
 
 ### 及格要求: 推导残差模型的雅可比
-
-Good Luck & 干就完了
+[点击链接进入](SensorFusionChapter3/doc/)指南
 
 ### 良好要求: 编程实现新模型的解析式求导
 
