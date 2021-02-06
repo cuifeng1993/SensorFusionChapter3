@@ -28,7 +28,7 @@
 
 <img src="doc/rpe_map.png" alt="ape_map" width="100%">
 
-<img src="doc/rpe_map.png" alt="ape_map" width="100%">
+<img src="doc/rpe_raw.png" alt="ape_raw" width="100%">
 
 <img src="doc/traj.png" alt="trajectory" width="100%">
 
